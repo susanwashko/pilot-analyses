@@ -10,5 +10,6 @@ plot(dat$x, dat$y)
 
 # comment 2
 
-
+# checking to see if changes I make show up on GitHub (yay for practicing)
+  # must now start a cycle of 'add, commit, push'
 
