@@ -12,4 +12,5 @@ plot(dat$x, dat$y)
 
 # checking to see if changes I make show up on GitHub (yay for practicing)
   # must now start a cycle of 'add, commit, push'
+  # success!!!
 
